@@ -1,0 +1,85 @@
+.headerReader{
+    margin-left: 8vw;
+    margin-top: 2vh;
+}
+
+.formReader{
+    margin-top: 6vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90vw;
+    height: 80vh;
+    flex-wrap: wrap;
+}
+
+.form-body{
+    width: 500px;
+}
+
+.labelText{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.input{
+    margin-top: 10px;
+}
+
+.but{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.cont{
+    margin-top: 20px;
+}
+
+.dataInput{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    width: 100vw;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.labelText{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 240px;
+}
+
+.input1{
+    margin-top: 14px;
+    height: 40px;
+    width: 240px;
+}
+
+.input2{
+    margin-top: 20px;
+    margin-left: 54px;
+    width: 120px;
+}
+
+.tags{
+    display: flex;
+    flex-direction: row;
+}
+
+.but1{
+    margin-top: 18px;
+    margin-left: 30px;
+    height: 40px;
+}
+
+.readerInfo{
+    margin-top: 60px;
+}
+
+.cont2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
